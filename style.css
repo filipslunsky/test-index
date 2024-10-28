@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+}
+
+h1 {
+    padding-top: 250px;
+    font-size: 45px;
+}
+
+p {
+    padding-top: 250px;
+    font-size: 45px;
+}
+
+#yes {
+    background-color: green;
+}
+
+#no {
+    background-color: red;
+}
+
+
+#answer {
+    font-size: 80px;
+}
